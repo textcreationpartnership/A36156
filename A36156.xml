@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Distractions of our times vvherein is discovered the generall discontent of all estates throughout the whole land : whereunto is added The Round-heads race.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36156</idno>
+            <idno type="STC">Wing D1698A</idno>
+            <idno type="STC">ESTC R34989</idno>
+            <idno type="EEBO-CITATION">14919520</idno>
+            <idno type="OCLC">ocm 14919520</idno>
+            <idno type="VID">102930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102930)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1568:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Distractions of our times vvherein is discovered the generall discontent of all estates throughout the whole land : whereunto is added The Round-heads race.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102930:1"/>
+            <pb facs="tcp:102930:1" rendition="simple:additions"/>
+            <p>THE DISTRACTIONS of our Times.</p>
+            <p>VVherein is diſcovered the Ge<g ref="char:EOLhyphen"/>nerall diſcontent of all Eſtates throughout the whole Land.</p>
+            <p>Whereunto is added the <hi>Round-heads Race.</hi>
+            </p>
+            <q xml:lang="lat">Nemo ſorte ſua contentus.</q>
+            <figure>
+               <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed at <hi>London.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="condition_of_the_estates_in_England">
+            <pb n="2" facs="tcp:102930:2"/>
+            <head>The diſtractions of theſe Times.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Lato</hi> ſaith, that every Common-wealth then runneth into ruine and decay. <hi>Cum numerus quinarius ternarió junctus duas efficit Har<g ref="char:EOLhyphen"/>monias:</hi> This is a Muſicall Theoreme, and <hi>Plato's</hi> meaning was not in many hundred yeares (till of late times <hi>Melanthon</hi> and ſome of our late Writers reſolved this Riddle) well underſtood the mea<g ref="char:EOLhyphen"/>ning is that State cannot ſubſiſt where the number of five, joyned to the number of three, maketh a diſſonant or a diſcordant Harmony. Every Kingdome (ge<g ref="char:EOLhyphen"/>nerally conſiſteth of three Eſtates, viz. The King or Prince, the Nobility, and the Commons.</p>
+            <p>All States may underſtand the benefit and ſweetneſſe of Unity, but I come to particular diſtractions, and diviſions among our ſelves at this preſent, wherein <hi>Nemo ſua ſorte contentus vivit.</hi> And to begin with the preſent eſtate of Church, the Coate of our bleſſed Saviour was without ſcame, ſchiſme or rent; woven all whole; which is or ought to bee the Embleme of the true Catholiqe and Apoſtolique Church, but if our Saviours Coate had had as many ſeames and rents as we have among our ſelves at this preſent, he would I am perſwaded have vouchſafed never to have worne it, they that have torne this ſeamleſſe Gar<g ref="char:EOLhyphen"/>ment are not the <hi>Iewes</hi> who plaid for it, by caſting Lots (though the Text ſaith in the Pſalme, they divided my Garments, &amp;c. for our Saviour ware more Gar<g ref="char:EOLhyphen"/>ments than one) but our Moderne Schiſmaticks and Sectuaries, who in every place like <hi>Pharaohs</hi> Frogs infect the whole Land, that there is ſcarce a City or Towne nay private houſe wherin they have not a part or party, ſo that the common people in the generall, and his Majeſties beſt Subjects, hardly know what to beleeeve (ſome of them having publiſhed a new Creed) what booke to ſerve God withall, the booke of Common Prayer, and whole Liturgy being cryed downe amongſt them for I dolatrous, prophane, and (as I have heard ſome of them affirme) an invention of the Divell, ſo that all the time of King <hi>Edward</hi> the ſixth Q. <hi>Elizabeth</hi> K. <hi>Iames,</hi> and of our Soveraigne K. <hi>Charles</hi> we have ſerved the Divell by their reckoning and we muſt ſay, <hi>Iam nova pro<g ref="char:EOLhyphen"/>genies caelo demittitur alto.</hi> A new race (of Round-heads) are dropt from Hea<g ref="char:EOLhyphen"/>ven to ſet us in the right way of ſerving God. But ſome will tell mee they are Saints, they live holily and keepe the Sabboth duly &amp;c. I confeſſe they do and very ſtrictly (as one an ale-houſe-keeper) in Southwark, had brewed a Barrell of ſtrong Ale and upon a Sunday morning he ſaw it working as ale will when it is new tunn'd which he ſeeing and in a great rage, called for a hammer, and
+<pb n="3" facs="tcp:102930:2" rendition="simple:additions"/>ſaying what doe you worke upon the Lords day, I will none of this, ſo beating out the head of the barrell he let all the Ale run upon the ground. Another u<g ref="char:EOLhyphen"/>ſing Marſhall Law hanged up his cat for killing a mouſe upon the Sabbath day I could cloy my Reader with the like ridiculous actions of theſe fellowes, ſo di<g ref="char:EOLhyphen"/>ſtracted and giddy as if they had lived with <hi>Caine</hi> in the Land of Nod (or ra<g ref="char:EOLhyphen"/>ther in the Land of Noddy. But the Honourable Ho<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe of Parliament hath ta<g ref="char:EOLhyphen"/>ken an order for putting an end to theſe Diviſions amongſt us, that much dan<g ref="char:EOLhyphen"/>ger yea miſchiefe will heerby be prevented which otherwiſe, doubtleſſe, might have enſued, and this courſe tooke <hi>Conſtantine</hi> in that horrible diviſion and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent betweene the Orthodoxe Chriſtians and the Arrians that is by a Counſell he ſet<g ref="char:EOLhyphen"/>led the true ſaith, and in the meane time cauſed them both to remaine quiet with<g ref="char:EOLhyphen"/>out diſturbance eitheir of the Church or Common-wealth, for never more bloo<g ref="char:EOLhyphen"/>dy war among Nations or more bitter diſtencion and quarrells have aroſe, be<g ref="char:EOLhyphen"/>tweene Church and Church, Citie and Citie, nay friend and friend brother and brother, then through difference in Religion; did not <hi>Diazivs</hi> a Spaniard ride 300. miles to murder his own brother, cleaving his head in two becauſe he was a Proteſtant, how many Fathers diſinherit their owne children becauſe they profeſſe a contrary Religion to theirs? and how many children for<g ref="char:EOLhyphen"/>ſake their own fathers and mothers for Religion-ſake? how many Treaſons were plotted and undertaken againſt our late Queen <hi>Elizabeth</hi> (of famous and E<g ref="char:EOLhyphen"/>ternal memory) but for matter of Religion (as was pretended at leaſt) how ma<g ref="char:EOLhyphen"/>ny Emperours, Kings and Princes, have been murdered for the Religion they profeſſed, as <hi>Thomas</hi> Emperour of <hi>Conſtantinople</hi> by the <hi>Arrians, Henry</hi> the third of <hi>France,</hi> and <hi>Henry</hi> the fourth alſo (as was thought) for favouring of the Proteſtants; over much difference of Religion divided in opinion <hi>Aſia</hi> from <hi>Af<g ref="char:EOLhyphen"/>frica,</hi> which after gave way to blaſphemous Mahomet, the other being reconci<g ref="char:EOLhyphen"/>led by the ſword of the Turke) to bring in his helliſh and ridiculous inventions in their roome, but hereof ſufficient, I only ſhew the danger of delay, in leaving the State of Religion, in a State unordered and unſetled, Schollers in the Vni<g ref="char:EOLhyphen"/>verſities at this day are diſtracted or in a maze not knowing how or what courſe they ſhould take to live hereafter, their breeeding there hath been very chargea<g ref="char:EOLhyphen"/>ble to their friends, and if they come to obtaine Schollerſhips or fellowſhips (ſuch is our golden times) the ſauce of obtaining them will coſt almoſt as much as the meate is worth, and when they have taken their degrees by much ſtudye and expence, they are never the nearer to preferment, for whereas one addicting himſelfe to the ſtudie of divinity) commeth by money or friends to get a living fortie goe without and are fain to turne Schoolemaſters countrey Phyſitians, and ſome (I have knowne) Solicitors in the Law, being diſcouraged by the unſet<g ref="char:EOLhyphen"/>ledneſſe of Religion, and liberty of the times when everie Hatdreſſer, Ironmon<g ref="char:EOLhyphen"/>ger, Cobler and Horſe-collar-maker ſhall paſſe among the multitude for as
+<pb n="4" facs="tcp:102930:3"/>ſound a Divine as an Vniverſitie can afford, and every known dunce and Igno<g ref="char:EOLhyphen"/>ramus ſhall poſſeſſe 2. or 3. great Benefices, by meanes of his fathers purſe, or perhaps of a match the Patrons Chambermaid (rid lately of her green ſick<g ref="char:EOLhyphen"/>neſſe by lying at his beds feet) When Civilians muſt turne common Atturneys and Solicitors, and in a word we finde almoſt a generall hate and loathing of leaning the Arts and all excellencie of knowledge throughout the Land.</p>
+            <p>Gentlemen and inhabitants of the Countrey poſſeſſe themſelves and their E<g ref="char:EOLhyphen"/>ſtates in diſtraction and feare of worſe and more tumultious times every where readier to ſell then to purchaſe, the want of money is ſuch a diſeaſe raigning a<g ref="char:EOLhyphen"/>mongſt them that ſome are ſcarce able to buy them horſes to come to petition for their grievances.</p>
+            <p>The Citie and Citizens know not well what to doe or truſt to, as firſt, what Religion to profeſſe, it ſelfe being as it were the conduit head of Sects and opi<g ref="char:EOLhyphen"/>nions which (as in pipes under ground, and in a cloſe manner) it deriveth into the whole Land, they dare hardly venture their ſhips at Sea, they have ſo many falſe friends and open enemies, nay among themſelves they know not (like <hi>Io<g ref="char:EOLhyphen"/>ſhuah</hi>) who are with them, or who againſt them, doubtleſſe the Citie nouriſheth many Vipers within her owne boſome, beſide other Serpents that are neſted in her Suburbs ready upon any uprore or rebellious tumult to devoure her, there<g ref="char:EOLhyphen"/>fore ſhee is not to be blamed if ſhe ſtrengthneth her Carriſon fortifieth her gates in the beſt manner ſhe may, ſhee hath now little returne of trade, her excellent Artiſans cannot get imployment, or finde where to ſhew their skill, her Mechan<g ref="char:EOLhyphen"/>nicks walke work-leſſe up and down, or going into the Countrey to viſite their friends, ſome of them can hardly ever finde the way back againe.</p>
+            <p>What a diſtraction was amongſt that Rabble in the uproare at <hi>Weſtminſter,</hi> when the Biſhop of <hi>Yorkes</hi> ſervants attending about the Abby Church to defend the ſame, and the Deanes Houſe belonging to his Lordſhip, at which time they were forced to come forth with weapons, and divers of them were hurt: amongſt all the reſt Sir <hi>Richard Wiſeman</hi> (whether by chance, or of ſet purpoſe is un<g ref="char:EOLhyphen"/>knowne) but being there preſent, and ſaying to the rude Rabble openly. Gen<g ref="char:EOLhyphen"/>tlemen, I will be your Leader, was with a brick or ſtone from over the Abbey doore, and (not in <hi>Weſtminſter-hall,</hi> neither was he a member of a Houſe of Commons as in an Elegie, dedicated to his memory is moſt lyingly reported) of which wound he dyed, and afterwards his Corps was carried to St. <hi>Stephens</hi> Church in Coleman-ſteet, and buried according to a new Church Government, lately enacted in a Conventicle of Sciſmaticks, being accompanied with at leaſt five hundred Antick Biſhops, conſiſting of all ſorts with their Swords, mourning Cloakes, and black Ribands.</p>
+            <p>The ſtrong Towne of <hi>Kingſton</hi> upon <hi>Hull,</hi> hath bin diſtracted a long time, as fearing in pleaſing one ſhe offends another.</p>
+            <pb n="5" facs="tcp:102930:3"/>
+            <p> And was not <hi>Kingſton</hi> upon <hi>Thames</hi> diſtracted, not knowing what to doe when Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anell <hi>Lunsford</hi> aroſe there with ſo many men.</p>
+            <p>And I beleeve my Lord Major, and the Biſhop of <hi>Chicheſter</hi> were much a<g ref="char:EOLhyphen"/>mazed when the round party came about them, reviling my Lord Major moſt vilely, and telling him the Biſhop was his Pope. For the Biſhop Preaching at the Old Jewry, at my Lord Majors Pariſh Church, when the <hi>Rounds</hi> ſaw him in his Rochet, they fell on humming and hiſſing, then being put out of the Church-doore, they gat up to the windowes, and brake downe the glaſſe, ſtill continuing their rayling, and reviſing, to the diſturbance of the whole Church.</p>
+            <p>And were not theſe <hi>Round-heads</hi> themſelves diſtracted, when one of their companions, a Cooper, after hee had broken off a legg of the Statue of Chriſt, upon Cheape-ſide Croſſe, fell upon the Iron Pikes, ſtanding about the Croſſe, where receiving his deadly wound he dyed ſhortly after, under the hands of a Chyrurgeon dwelling in Roode Lane.</p>
+            <p>Phyſitians are mightily diſtracted, and out of patience, becauſe their whole Colledge knowes not how to cure this Epidemicall diſeaſe (that like the ſwea<g ref="char:EOLhyphen"/>ting Sickneſſe in times paſt) raigneth over the whole Land, that is, want of money.</p>
+            <p>And I beleeve <hi>Abel,</hi> and <hi>Kilvert</hi> are not yet cured of this common Diſeaſe, ſince they played their projecting prankes. Alſo our Clergy in generall are di<g ref="char:EOLhyphen"/>ſtracted, till the Synod be paſt.</p>
+            <p>Proctors, Apparitors, and all other Officers of the ſpirituall Court, are like<g ref="char:EOLhyphen"/>wiſe diſtracted, as now wanting worke and except Hay-time, and Harveſt re<g ref="char:EOLhyphen"/>leeves them they are like to be utterly undone.</p>
+            <p>In the City the Uſurer is diſtracted, not knowing where or to whom to let out his money, where he may be ſure of it againe, or being already out of his hands how to come by it againe; a witty Gallant comes to one of them in Moorefields and deſires he might borrow 100. pounds of him, quoth Mr. <hi>Foxcraft</hi> the Uſurer, to the Gentleman. Sir you are a meere ſtranger unto me, I ne<g ref="char:EOLhyphen"/>ver knew or ſaw you before, that is the only reaſon quoth the other that I come to borrow it, for if you knew me you would never lend me a penny.</p>
+            <p>The Courtier is diſcontented finding his journey's long, ſo little money in the Exchequer, and the abſence of his Mr. from White-hall and the Parliament,</p>
+            <p>The followers of Nobles and Gentlemen, who hold their Tenures only at the will of their Lords and Maſters are now a dayes diſtracted and know not what they ſhall truſt to, if giving the leaſt diſtaſte, or by committing the leaſt offence they ſhall incur their diſpleaſures, and ſo be caſt off, for theſe times are not like the forepaſſed, when for their honeſt Service they had extraordinary favours, or Annuall Penſions given them during their lives, yea though they in time of their Service had committed ſome groſſe errours and highly diſpleaſed their Ma<g ref="char:EOLhyphen"/>ſters.</p>
+            <pb n="6" facs="tcp:102930:4"/>
+            <p> A worthy auncient Gentleman in the time of Q. <hi>Eliz.</hi> dwelling in Bark<g ref="char:EOLhyphen"/>ſhire whoſe name was Mr. <hi>Young,</hi> a great houſe-keeper living a Batchelor all his life, againſt a Chriſtmas ſent up a man he had with forty pounds to London to beſtow in frute, ſpice and other commodities (for at that time he ever kept o<g ref="char:EOLhyphen"/>pen houſe,) his man at London lighting among cheaters, loſt all his Maſters mo<g ref="char:EOLhyphen"/>ney at cards, and not knowing what to doe, by the advice of a chamberlaine of an Inne in Holborne, was perſwaded to joyne himſelfe with two or three good fellowes, who were reſolved to take a purſe upon the high way beyond Higate, he conſented, and they meeting with fourſcore and od pounds, the other theeves went cleare away with die money; and left him to be taken, not getting a pen<g ref="char:EOLhyphen"/>ny or it, howſoever he was carried to Newgate, where arraigned and condem<g ref="char:EOLhyphen"/>ned was (a little before Chriſtmas) to be executed, which his Mr. hearing of, upon the very morning when the carts were come to Tiburn, came thither with his mans pardon, which the Queene (with whom he was very gracious) had granted &amp; comming to the Sheriffe ſaid, Mr. Sheriffe have I not a man among your company here to be executed, I know not quoth the Sheriffe, oh yes, I ſee him there quoth Mr. <hi>Young,</hi> (for he was piniond making his confesſion with a pſalme booke in his hand) Sirrah quoth he you raſcall doe I ſend you about my buſineſſe and you ſtand preaching there, come down, or Ile fetch you downe with a miſchiefe, and get you home about your buſineſſe, his Mr, not only en<g ref="char:EOLhyphen"/>tertained him againe, but at his death gave him an annuitie to maintaine him while he lived.</p>
+            <div type="part">
+               <p>HIs Majeſties ſhip Carpenters are in a diſtraction and know not of whom, nor where to get timber for the building of ſhips to furniſh and encreaſe his Navy Royall, ſince the forreſt of Deane was cut down, and other of the beſt timber woods in England (without eſpeciall order taken by the Honourable Parliament) are like to run the ſame fortune,</p>
+               <p>The Inhabitants neer and about the Fennes in Lincolnſhire, as about Boſton, Marcham, Sibſey, Stickney and other places are diſtracted and know not what to doe or how to recover their Commons and Fennes again out of the projectors hands, beſide their Cattell this Summer it is thought will run mad for want of water.</p>
+               <p>If I ſhould deſcribe the ſeverall diſtractions of the world I ſhould exceed to a volume, but I content me with theſe the moſt eminent of our times.</p>
+               <p>Wiſhing heartily I might not at any time hereafter have occaſion to write more or this or the ſame ſubſtance.</p>
+            </div>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:102930:4"/>
+            <head>The <hi>Round-heads</hi> Race.</head>
+            <lg>
+               <l>KNow then my Brethren, Heaven is cleare,</l>
+               <l>the Eclipſed Clouds are gone,</l>
+               <l>The righteous now ſhall flouriſh, and</l>
+               <l>good dayes are comming on.</l>
+               <l>Come then my Brethren and be glad,</l>
+               <l>and eke rejoyce with me,</l>
+               <l>Lawne ſleeves and Rotchets ſhall goe downe,</l>
+               <l>and Hey then up goe wee.</l>
+            </lg>
+            <lg>
+               <l>Wee'l I breake the windowes which the whore</l>
+               <l>of <hi>Babylon</hi> hath painted,</l>
+               <l>And when the Popiſh Saints goe downe</l>
+               <l>then <hi>Burton</hi> ſhall be ſainted.</l>
+               <l>Then neither Croſſe, nor Crucifix</l>
+               <l>ſhall ſtand, for now I ſee</l>
+               <l>
+                  <hi>Romes</hi> Traſh and trumpery ſhall goe downe,</l>
+               <l>and Hey then up goe we.</l>
+            </lg>
+            <lg>
+               <l>What ere the Popiſh hands have built</l>
+               <l>Our Hammers ſhall undoe,</l>
+               <l>Wee'l breake the Pipes, and burne the Coapes,</l>
+               <l>and pull downe Churches too.</l>
+               <l>Wee'l exerciſe within a Grove,</l>
+               <l>and teach beneath a Tree,</l>
+               <l>And make a Pulpit of a Cart,</l>
+               <l>and Hey then up goe we.</l>
+            </lg>
+            <lg>
+               <l>Wee'l downe with Vniverſities,</l>
+               <l>where Learning is profeſt</l>
+               <l>Becauſe they prattle and maintaine</l>
+               <l>the Language of the Beaſt.</l>
+               <pb facs="tcp:102930:5"/>
+               <l> Wee'l drive the Doct<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s out of doores,</l>
+               <l>and all what ere they be;</l>
+               <l>Wee'l cry all Arts and Learning downe,</l>
+               <l>and Hey then up goe we.</l>
+            </lg>
+            <lg>
+               <l>Wee'l downe with Deanes, and Prebends too,</l>
+               <l>and I rejoyce to tell yee,</l>
+               <l>How that wee'l eate fat Piggs our fill,</l>
+               <l>and Capons by the belly.</l>
+               <l>Wee'l I burne the fathers with their Toomes,</l>
+               <l>and make the Schoole-men flee,</l>
+               <l>Wee'l downe with all that ſmells of wit,</l>
+               <l>and Hey then up goe we.</l>
+            </lg>
+            <lg>
+               <l>Since then the Anti Chriſtian crew</l>
+               <l>be preſt and over-throwne,</l>
+               <l>Wee'l teach the Nobles how to crouch,</l>
+               <l>and keepe the Gentry downe.</l>
+               <l>Good manners hath an ill report,</l>
+               <l>and turnes to pr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de we ſee;</l>
+               <l>Wee'l therefore cry all manners downe,</l>
+               <l>and Hey then up goe we.</l>
+            </lg>
+            <lg>
+               <l>The name of Lord, ſhall be abhord,</l>
+               <l>for each man is a brother,</l>
+               <l>No reaſon why in Church, or State,</l>
+               <l>one man ſhould rule another.</l>
+               <l>But when the change of Government</l>
+               <l>ſhall ſet our fingers free,</l>
+               <l>Wee'l lay the wanton Sisters downe,</l>
+               <l>and Hey then, up goe we.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102930:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
